@@ -1,0 +1,242 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++---------------------------------------------------------------------------------------------------------------+
+|value                                                                                                          |
++---------------------------------------------------------------------------------------------------------------+
+|{"customer":"Ashley.Abram@test.com","score":"-5.0","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-3.5","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-1.5","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-1.0","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-2.0","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-3.0","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-4.0","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"-4.5","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Ashley.Abram@test.com","score":"0.0","email":"Ashley.Abram@test.com","birthYear":"1955"}          |
+|{"customer":"Ashley.Abram@test.com","score":"-2.5","email":"Ashley.Abram@test.com","birthYear":"1955"}         |
+|{"customer":"Christina.Khatib@test.com","score":"9.0","email":"Christina.Khatib@test.com","birthYear":"1941"}  |
+|{"customer":"Christina.Khatib@test.com","score":"-2.0","email":"Christina.Khatib@test.com","birthYear":"1941"} |
+|{"customer":"Sean.Anandh@test.com","score":"0.5","email":"Sean.Anandh@test.com","birthYear":"1962"}            |
+|{"customer":"Christina.Khatib@test.com","score":"34.5","email":"Christina.Khatib@test.com","birthYear":"1941"} |
+|{"customer":"Sean.Anandh@test.com","score":"14.5","email":"Sean.Anandh@test.com","birthYear":"1962"}           |
+|{"customer":"Sean.Anandh@test.com","score":"-10.0","email":"Sean.Anandh@test.com","birthYear":"1962"}          |
+|{"customer":"Sean.Anandh@test.com","score":"3.5","email":"Sean.Anandh@test.com","birthYear":"1962"}            |
+|{"customer":"Christina.Khatib@test.com","score":"-21.0","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Sean.Anandh@test.com","score":"17.0","email":"Sean.Anandh@test.com","birthYear":"1962"}           |
+|{"customer":"Sean.Anandh@test.com","score":"0.0","email":"Sean.Anandh@test.com","birthYear":"1962"}            |
++---------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Ashley.Abram@test.com","score":"-6.0","email":"Ashley.Abram@test.com","birthYear":"1955"}        |
+|{"customer":"Christina.Khatib@test.com","score":"17.0","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Sean.Anandh@test.com","score":"-25.0","email":"Sean.Anandh@test.com","birthYear":"1962"}         |
+|{"customer":"Santosh.Clark@test.com","score":"17.0","email":"Santosh.Clark@test.com","birthYear":"1937"}      |
+|{"customer":"Jerry.Doshi@test.com","score":"14.5","email":"Jerry.Doshi@test.com","birthYear":"1938"}          |
+|{"customer":"Edward.Clark@test.com","score":"-20.0","email":"Edward.Clark@test.com","birthYear":"1947"}       |
+|{"customer":"Santosh.Khatib@test.com","score":"-11.0","email":"Santosh.Khatib@test.com","birthYear":"1943"}   |
+|{"customer":"Craig.Jefferson@test.com","score":"9.0","email":"Craig.Jefferson@test.com","birthYear":"1964"}   |
+|{"customer":"Santosh.Howard@test.com","score":"12.0","email":"Santosh.Howard@test.com","birthYear":"1949"}    |
+|{"customer":"Gail.Smith@test.com","score":"8.5","email":"Gail.Smith@test.com","birthYear":"1942"}             |
+|{"customer":"Frank.Abram@test.com","score":"14.5","email":"Frank.Abram@test.com","birthYear":"1948"}          |
+|{"customer":"Trevor.Jackson@test.com","score":"-3.0","email":"Trevor.Jackson@test.com","birthYear":"1963"}    |
+|{"customer":"Larry.Jefferson@test.com","score":"-8.5","email":"Larry.Jefferson@test.com","birthYear":"1940"}  |
+|{"customer":"Larry.Smith@test.com","score":"-2.5","email":"Larry.Smith@test.com","birthYear":"1965"}          |
+|{"customer":"Jason.Gonzalez@test.com","score":"-26.0","email":"Jason.Gonzalez@test.com","birthYear":"1944"}   |
+|{"customer":"Spencer.Howard@test.com","score":"-19.0","email":"Spencer.Howard@test.com","birthYear":"1961"}   |
++--------------------------------------------------------------------------------------------------------------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Christina.Khatib@test.com","score":"-6.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Christina.Khatib@test.com","score":"19.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Sean.Anandh@test.com","score":"-6.5","email":"Sean.Anandh@test.com","birthYear":"1962"}          |
+|{"customer":"Ben.Smith@test.com","score":"7.0","email":"Ben.Smith@test.com","birthYear":"1945"}               |
+|{"customer":"Santosh.Clark@test.com","score":"-11.0","email":"Santosh.Clark@test.com","birthYear":"1937"}     |
+|{"customer":"Santosh.Clark@test.com","score":"37.0","email":"Santosh.Clark@test.com","birthYear":"1937"}      |
+|{"customer":"Jerry.Doshi@test.com","score":"1.5","email":"Jerry.Doshi@test.com","birthYear":"1938"}           |
+|{"customer":"Jerry.Doshi@test.com","score":"-13.0","email":"Jerry.Doshi@test.com","birthYear":"1938"}         |
+|{"customer":"Edward.Clark@test.com","score":"4.5","email":"Edward.Clark@test.com","birthYear":"1947"}         |
+|{"customer":"Santosh.Khatib@test.com","score":"9.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}     |
+|{"customer":"Craig.Jefferson@test.com","score":"-16.0","email":"Craig.Jefferson@test.com","birthYear":"1964"} |
+|{"customer":"Santosh.Howard@test.com","score":"8.5","email":"Santosh.Howard@test.com","birthYear":"1949"}     |
+|{"customer":"Santosh.Howard@test.com","score":"-5.5","email":"Santosh.Howard@test.com","birthYear":"1949"}    |
+|{"customer":"Gail.Smith@test.com","score":"5.0","email":"Gail.Smith@test.com","birthYear":"1942"}             |
+|{"customer":"Frank.Abram@test.com","score":"1.5","email":"Frank.Abram@test.com","birthYear":"1948"}           |
+|{"customer":"Trevor.Jackson@test.com","score":"-20.5","email":"Trevor.Jackson@test.com","birthYear":"1963"}   |
+|{"customer":"Chris.Olson@test.com","score":"29.5","email":"Chris.Olson@test.com","birthYear":"1946"}          |
+|{"customer":"Chris.Olson@test.com","score":"5.0","email":"Chris.Olson@test.com","birthYear":"1946"}           |
+|{"customer":"Larry.Jefferson@test.com","score":"-1.5","email":"Larry.Jefferson@test.com","birthYear":"1940"}  |
+|{"customer":"Larry.Smith@test.com","score":"-22.5","email":"Larry.Smith@test.com","birthYear":"1965"}         |
++--------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Ashley.Abram@test.com","score":"-5.5","email":"Ashley.Abram@test.com","birthYear":"1955"}        |
+|{"customer":"Christina.Khatib@test.com","score":"-1.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Sean.Anandh@test.com","score":"28.5","email":"Sean.Anandh@test.com","birthYear":"1962"}          |
+|{"customer":"Ben.Smith@test.com","score":"-9.5","email":"Ben.Smith@test.com","birthYear":"1945"}              |
+|{"customer":"Travis.Aristotle@test.com","score":"-5.5","email":"Travis.Aristotle@test.com","birthYear":"1958"}|
+|{"customer":"Jerry.Doshi@test.com","score":"35.5","email":"Jerry.Doshi@test.com","birthYear":"1938"}          |
+|{"customer":"Edward.Clark@test.com","score":"29.0","email":"Edward.Clark@test.com","birthYear":"1947"}        |
+|{"customer":"Santosh.Khatib@test.com","score":"32.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}    |
+|{"customer":"Jerry.Khatib@test.com","score":"-2.0","email":"Jerry.Khatib@test.com","birthYear":"1951"}        |
+|{"customer":"Craig.Jefferson@test.com","score":"-21.0","email":"Craig.Jefferson@test.com","birthYear":"1964"} |
+|{"customer":"Frank.Abram@test.com","score":"6.5","email":"Frank.Abram@test.com","birthYear":"1948"}           |
+|{"customer":"Chris.Howard@test.com","score":"-2.5","email":"Chris.Howard@test.com","birthYear":"1956"}        |
+|{"customer":"Trevor.Jackson@test.com","score":"-13.0","email":"Trevor.Jackson@test.com","birthYear":"1963"}   |
+|{"customer":"Trevor.Jackson@test.com","score":"2.0","email":"Trevor.Jackson@test.com","birthYear":"1963"}     |
+|{"customer":"Larry.Jefferson@test.com","score":"-11.5","email":"Larry.Jefferson@test.com","birthYear":"1940"} |
+|{"customer":"Larry.Smith@test.com","score":"23.5","email":"Larry.Smith@test.com","birthYear":"1965"}          |
+|{"customer":"Spencer.Howard@test.com","score":"4.0","email":"Spencer.Howard@test.com","birthYear":"1961"}     |
++--------------------------------------------------------------------------------------------------------------+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Christina.Khatib@test.com","score":"30.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Sean.Anandh@test.com","score":"-22.5","email":"Sean.Anandh@test.com","birthYear":"1962"}         |
+|{"customer":"Ben.Smith@test.com","score":"19.5","email":"Ben.Smith@test.com","birthYear":"1945"}              |
+|{"customer":"Santosh.Clark@test.com","score":"6.5","email":"Santosh.Clark@test.com","birthYear":"1937"}       |
+|{"customer":"Travis.Aristotle@test.com","score":"-6.0","email":"Travis.Aristotle@test.com","birthYear":"1958"}|
+|{"customer":"Jerry.Doshi@test.com","score":"2.0","email":"Jerry.Doshi@test.com","birthYear":"1938"}           |
+|{"customer":"Edward.Clark@test.com","score":"18.0","email":"Edward.Clark@test.com","birthYear":"1947"}        |
+|{"customer":"Santosh.Khatib@test.com","score":"14.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}    |
+|{"customer":"Craig.Jefferson@test.com","score":"-23.5","email":"Craig.Jefferson@test.com","birthYear":"1964"} |
+|{"customer":"Santosh.Howard@test.com","score":"-14.0","email":"Santosh.Howard@test.com","birthYear":"1949"}   |
+|{"customer":"Santosh.Howard@test.com","score":"6.0","email":"Santosh.Howard@test.com","birthYear":"1949"}     |
+|{"customer":"Gail.Smith@test.com","score":"-19.5","email":"Gail.Smith@test.com","birthYear":"1942"}           |
+|{"customer":"Frank.Abram@test.com","score":"4.0","email":"Frank.Abram@test.com","birthYear":"1948"}           |
+|{"customer":"Frank.Abram@test.com","score":"30.0","email":"Frank.Abram@test.com","birthYear":"1948"}          |
+|{"customer":"Trevor.Jackson@test.com","score":"-26.0","email":"Trevor.Jackson@test.com","birthYear":"1963"}   |
+|{"customer":"Chris.Olson@test.com","score":"-2.5","email":"Chris.Olson@test.com","birthYear":"1946"}          |
+|{"customer":"Larry.Jefferson@test.com","score":"5.5","email":"Larry.Jefferson@test.com","birthYear":"1940"}   |
+|{"customer":"Neeraj.Habschied@test.com","score":"-0.5","email":"Neeraj.Habschied@test.com","birthYear":"1950"}|
+|{"customer":"Larry.Smith@test.com","score":"6.5","email":"Larry.Smith@test.com","birthYear":"1965"}           |
+|{"customer":"Jason.Gonzalez@test.com","score":"-28.5","email":"Jason.Gonzalez@test.com","birthYear":"1944"}   |
++--------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 5
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Christina.Khatib@test.com","score":"21.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Ben.Smith@test.com","score":"15.5","email":"Ben.Smith@test.com","birthYear":"1945"}              |
+|{"customer":"Ben.Smith@test.com","score":"-12.0","email":"Ben.Smith@test.com","birthYear":"1945"}             |
+|{"customer":"Jerry.Doshi@test.com","score":"-27.0","email":"Jerry.Doshi@test.com","birthYear":"1938"}         |
+|{"customer":"Edward.Clark@test.com","score":"-4.0","email":"Edward.Clark@test.com","birthYear":"1947"}        |
+|{"customer":"Santosh.Khatib@test.com","score":"-6.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}    |
+|{"customer":"Santosh.Khatib@test.com","score":"-3.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}    |
+|{"customer":"Craig.Jefferson@test.com","score":"19.0","email":"Craig.Jefferson@test.com","birthYear":"1964"}  |
+|{"customer":"Santosh.Howard@test.com","score":"-2.0","email":"Santosh.Howard@test.com","birthYear":"1949"}    |
+|{"customer":"Gail.Smith@test.com","score":"38.5","email":"Gail.Smith@test.com","birthYear":"1942"}            |
+|{"customer":"Gail.Smith@test.com","score":"0.0","email":"Gail.Smith@test.com","birthYear":"1942"}             |
+|{"customer":"Trevor.Jackson@test.com","score":"-11.0","email":"Trevor.Jackson@test.com","birthYear":"1963"}   |
+|{"customer":"Chris.Olson@test.com","score":"-7.0","email":"Chris.Olson@test.com","birthYear":"1946"}          |
+|{"customer":"Larry.Jefferson@test.com","score":"2.0","email":"Larry.Jefferson@test.com","birthYear":"1940"}   |
+|{"customer":"Larry.Smith@test.com","score":"-14.0","email":"Larry.Smith@test.com","birthYear":"1965"}         |
+|{"customer":"Neeraj.Habschied@test.com","score":"-2.5","email":"Neeraj.Habschied@test.com","birthYear":"1950"}|
+|{"customer":"Jason.Gonzalez@test.com","score":"6.0","email":"Jason.Gonzalez@test.com","birthYear":"1944"}     |
+|{"customer":"Christina.Davis@test.com","score":"0.5","email":"Christina.Davis@test.com","birthYear":"1939"}   |
++--------------------------------------------------------------------------------------------------------------+
+
+-------------------------------------------
+Batch: 6
+-------------------------------------------
++---------------------------------------------------------------------------------------------------------------+
+|value                                                                                                          |
++---------------------------------------------------------------------------------------------------------------+
+|{"customer":"Sean.Anandh@test.com","score":"2.0","email":"Sean.Anandh@test.com","birthYear":"1962"}            |
+|{"customer":"Christina.Khatib@test.com","score":"-17.0","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Santosh.Clark@test.com","score":"6.0","email":"Santosh.Clark@test.com","birthYear":"1937"}        |
+|{"customer":"Ben.Smith@test.com","score":"-28.0","email":"Ben.Smith@test.com","birthYear":"1945"}              |
+|{"customer":"Santosh.Clark@test.com","score":"23.0","email":"Santosh.Clark@test.com","birthYear":"1937"}       |
+|{"customer":"Santosh.Clayton@test.com","score":"-6.0","email":"Santosh.Clayton@test.com","birthYear":"1959"}   |
+|{"customer":"Jerry.Doshi@test.com","score":"12.0","email":"Jerry.Doshi@test.com","birthYear":"1938"}           |
+|{"customer":"Jerry.Doshi@test.com","score":"7.5","email":"Jerry.Doshi@test.com","birthYear":"1938"}            |
+|{"customer":"Edward.Clark@test.com","score":"-10.5","email":"Edward.Clark@test.com","birthYear":"1947"}        |
+|{"customer":"Craig.Jefferson@test.com","score":"28.0","email":"Craig.Jefferson@test.com","birthYear":"1964"}   |
+|{"customer":"Craig.Jefferson@test.com","score":"0.0","email":"Craig.Jefferson@test.com","birthYear":"1964"}    |
+|{"customer":"Santosh.Howard@test.com","score":"29.0","email":"Santosh.Howard@test.com","birthYear":"1949"}     |
+|{"customer":"Gail.Smith@test.com","score":"18.0","email":"Gail.Smith@test.com","birthYear":"1942"}             |
+|{"customer":"Frank.Abram@test.com","score":"10.5","email":"Frank.Abram@test.com","birthYear":"1948"}           |
+|{"customer":"Trevor.Jackson@test.com","score":"48.5","email":"Trevor.Jackson@test.com","birthYear":"1963"}     |
+|{"customer":"Trevor.Jackson@test.com","score":"21.5","email":"Trevor.Jackson@test.com","birthYear":"1963"}     |
+|{"customer":"Larry.Smith@test.com","score":"9.5","email":"Larry.Smith@test.com","birthYear":"1965"}            |
+|{"customer":"Larry.Smith@test.com","score":"-4.0","email":"Larry.Smith@test.com","birthYear":"1965"}           |
+|{"customer":"Jason.Gonzalez@test.com","score":"-15.0","email":"Jason.Gonzalez@test.com","birthYear":"1944"}    |
+|{"customer":"Christina.Davis@test.com","score":"7.5","email":"Christina.Davis@test.com","birthYear":"1939"}    |
++---------------------------------------------------------------------------------------------------------------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 7
+-------------------------------------------
++--------------------------------------------------------------------------------------------------------------+
+|value                                                                                                         |
++--------------------------------------------------------------------------------------------------------------+
+|{"customer":"Sean.Anandh@test.com","score":"9.5","email":"Sean.Anandh@test.com","birthYear":"1962"}           |
+|{"customer":"Christina.Khatib@test.com","score":"20.0","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Ben.Smith@test.com","score":"1.5","email":"Ben.Smith@test.com","birthYear":"1945"}               |
+|{"customer":"Santosh.Clark@test.com","score":"3.5","email":"Santosh.Clark@test.com","birthYear":"1937"}       |
+|{"customer":"Santosh.Clayton@test.com","score":"-5.5","email":"Santosh.Clayton@test.com","birthYear":"1959"}  |
+|{"customer":"Jerry.Doshi@test.com","score":"-26.5","email":"Jerry.Doshi@test.com","birthYear":"1938"}         |
+|{"customer":"Santosh.Khatib@test.com","score":"-23.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}   |
+|{"customer":"Craig.Jefferson@test.com","score":"-13.0","email":"Craig.Jefferson@test.com","birthYear":"1964"} |
+|{"customer":"Santosh.Howard@test.com","score":"-0.5","email":"Santosh.Howard@test.com","birthYear":"1949"}    |
+|{"customer":"Gail.Smith@test.com","score":"-30.0","email":"Gail.Smith@test.com","birthYear":"1942"}           |
+|{"customer":"Frank.Abram@test.com","score":"5.5","email":"Frank.Abram@test.com","birthYear":"1948"}           |
+|{"customer":"Trevor.Jackson@test.com","score":"-0.5","email":"Trevor.Jackson@test.com","birthYear":"1963"}    |
+|{"customer":"Chris.Olson@test.com","score":"11.0","email":"Chris.Olson@test.com","birthYear":"1946"}          |
+|{"customer":"Larry.Jefferson@test.com","score":"-20.5","email":"Larry.Jefferson@test.com","birthYear":"1940"} |
+|{"customer":"Larry.Smith@test.com","score":"-14.5","email":"Larry.Smith@test.com","birthYear":"1965"}         |
+|{"customer":"Spencer.Howard@test.com","score":"-9.0","email":"Spencer.Howard@test.com","birthYear":"1961"}    |
+|{"customer":"Spencer.Howard@test.com","score":"-6.5","email":"Spencer.Howard@test.com","birthYear":"1961"}    |
+|{"customer":"Christina.Davis@test.com","score":"-22.0","email":"Christina.Davis@test.com","birthYear":"1939"} |
++--------------------------------------------------------------------------------------------------------------+
+
+-------------------------------------------
+Batch: 8
+-------------------------------------------
++-------------------------------------------------------------------------------------------------------------+
+|value                                                                                                        |
++-------------------------------------------------------------------------------------------------------------+
+|{"customer":"Sean.Anandh@test.com","score":"17.5","email":"Sean.Anandh@test.com","birthYear":"1962"}         |
+|{"customer":"Christina.Khatib@test.com","score":"2.5","email":"Christina.Khatib@test.com","birthYear":"1941"}|
+|{"customer":"Ben.Smith@test.com","score":"31.0","email":"Ben.Smith@test.com","birthYear":"1945"}             |
+|{"customer":"Santosh.Clark@test.com","score":"-6.5","email":"Santosh.Clark@test.com","birthYear":"1937"}     |
+|{"customer":"Santosh.Clayton@test.com","score":"-5.0","email":"Santosh.Clayton@test.com","birthYear":"1959"} |
+|{"customer":"Jerry.Doshi@test.com","score":"-4.0","email":"Jerry.Doshi@test.com","birthYear":"1938"}         |
+|{"customer":"Edward.Clark@test.com","score":"-21.0","email":"Edward.Clark@test.com","birthYear":"1947"}      |
+|{"customer":"Santosh.Khatib@test.com","score":"-18.5","email":"Santosh.Khatib@test.com","birthYear":"1943"}  |
+|{"customer":"Craig.Jefferson@test.com","score":"-34.0","email":"Craig.Jefferson@test.com","birthYear":"1964"}|
+|{"customer":"Santosh.Howard@test.com","score":"-15.0","email":"Santosh.Howard@test.com","birthYear":"1949"}  |
+|{"customer":"Gail.Smith@test.com","score":"-22.0","email":"Gail.Smith@test.com","birthYear":"1942"}          |
+|{"customer":"Frank.Abram@test.com","score":"-16.5","email":"Frank.Abram@test.com","birthYear":"1948"}        |
+|{"customer":"Chris.Howard@test.com","score":"-4.5","email":"Chris.Howard@test.com","birthYear":"1956"}       |
+|{"customer":"Trevor.Jackson@test.com","score":"-46.5","email":"Trevor.Jackson@test.com","birthYear":"1963"}  |
+|{"customer":"Chris.Olson@test.com","score":"-17.0","email":"Chris.Olson@test.com","birthYear":"1946"}        |
+|{"customer":"Jason.Gonzalez@test.com","score":"17.0","email":"Jason.Gonzalez@test.com","birthYear":"1944"}   |
+|{"customer":"Christina.Davis@test.com","score":"-16.5","email":"Christina.Davis@test.com","birthYear":"1939"}|
++-------------------------------------------------------------------------------------------------------------+
+

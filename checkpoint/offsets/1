@@ -1,0 +1,4 @@
+v1
+{"batchWatermarkMs":0,"batchTimestampMs":1605279940294,"conf":{"spark.sql.shuffle.partitions":"200","spark.sql.streaming.stateStore.providerClass":"org.apache.spark.sql.execution.streaming.state.HDFSBackedStateStoreProvider"}}
+{"redis-server":{"0":0}}
+{"stedi-events":{"0":0}}

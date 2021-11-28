@@ -1,0 +1,48 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++-------------------------+-----+
+|customer                 |score|
++-------------------------+-----+
+|Larry.Smith@test.com     |15.5 |
+|Craig.Jefferson@test.com |22.0 |
+|Trevor.Jackson@test.com  |11.5 |
+|Sean.Anandh@test.com     |21.0 |
+|Spencer.Howard@test.com  |-23.5|
+|Jerry.Mitra@test.com     |-3.0 |
+|Santosh.Clayton@test.com |-1.5 |
+|Travis.Aristotle@test.com|-3.5 |
+|Angie.Wu@test.com        |-2.5 |
+|Chris.Howard@test.com    |-3.5 |
+|Ashley.Abram@test.com    |-1.0 |
+|Spencer.Olson@test.com   |-5.0 |
+|Trevor.Khatib@test.com   |-2.5 |
+|Gail.Davis@test.com      |-4.0 |
+|Jerry.Khatib@test.com    |-3.5 |
+|Neeraj.Habschied@test.com|-3.5 |
+|Santosh.Howard@test.com  |-20.0|
+|Frank.Abram@test.com     |-7.5 |
+|Edward.Clark@test.com    |-11.0|
+|Chris.Olson@test.com     |2.0  |
++-------------------------+-----+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----------------------+-----+
+|customer               |score|
++-----------------------+-----+
+|Trevor.Jackson@test.com|-16.0|
+|Sean.Anandh@test.com   |-7.0 |
++-----------------------+-----+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-----------------------+-----+
+|customer               |score|
++-----------------------+-----+
+|Spencer.Howard@test.com|25.0 |
++-----------------------+-----+
+
